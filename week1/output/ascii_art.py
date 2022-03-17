@@ -1,0 +1,6 @@
+print("Please enter a character for the eye")
+name = input()
+print("##########")
+print("#  o  o  #")
+print("#  ----  #")
+print("##########")
